@@ -1,0 +1,13 @@
+SpeechRecognition==3.8.1
+pyttsx3==2.90
+PyAudio==0.2.11
+pywhatkit==5.5
+wikipedia==1.4.0
+pyjokes==0.6.0
+playsound==1.2.2
+pillow==10.0.0
+requests==2.31.0
+python-dotenv==1.0.0
+keyboard==0.13.5
+opencv-python==4.8.0.78
+numpy==1.27.4
